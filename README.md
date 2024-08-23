@@ -7,12 +7,12 @@ This repo has come a long way, and it only has further to grow.
 If you came here looking for code, then please refer to the image below.
 Thanks for your interest!
 
-If you need a reference of what used to exist and is now contained where, here's a small legend.
-Xeon Sudona: Shittington, Fucksville, Fucksville School District, Mythland, Lurelin Harbor, Orbit Nexus, Plensic County, RZLVS, Totally Not Intravenous, A Totally Normal Super Ordinary Day At Cosmonious High (because Pepper, my one character made for that roleplay, exists in this universe. I'm categorizing it under Lurelin Harbor, since that's when she first appeared.)
-Zombies: Michigan Outbreak, Funny Zombie Time
-Unrelated: Paranormal thing I can't remember the name of, <s>Failed SCP Thing</s> Nevermind, we aren't keeping those pictures
-Misc: Non-OC Characters, Non-Roleplay Things
-
+If you need a reference of what used to exist and is now contained where, here's a small legend.<br>
+<b>Xeon Sudona</b>: Shittington, Fucksville, Fucksville School District, Mythland, Lurelin Harbor, Orbit Nexus, Plensic County, RZLVS, Totally Not Intravenous, A Totally Normal Super Ordinary Day At Cosmonious High (because Pepper, my one character made for that roleplay, exists in this universe. I'm categorizing it under Lurelin Harbor, since that's when she first appeared.)<br>
+<b>Zombies</b>: Michigan Outbreak, Funny Zombie Time<br>
+<b>Unrelated</b>: Paranormal thing I can't remember the name of, <s>Failed SCP Thing</s> Nevermind, we aren't keeping those pictures<br>
+<b>Misc</b>: Non-OC Characters, Non-Roleplay Things<br>
+<br>
 <picture>
  <img alt="A picture of a cat holding a block of cheese with the caption 'my apolocheese'" src="https://raw.githubusercontent.com/OrangeBlock0421/image-host/main/viewme.jpg">
 </picture>

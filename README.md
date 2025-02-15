@@ -4,6 +4,7 @@ Exceptions to this include but are not limited to: Profile pictures in the [Tota
 ---
 
 Last Five Changes (when applicable): 
+- [Another new roleplay][mode] has started, some magical fantasy mess. This update begins the influx of characters from it.
 - Reformatted the *[README.MD](https://github.com/OrangeBlock0421/image-host/blob/main/README.md)* with fancier markdown. More formatting changes, more formatting changes!
 - [A new roleplay][xeonaug] has started, a rebel group in an alternate timeline to my base universe. This update includes their AI and a lot more of their members that weren't already present in this repository.
 
@@ -56,6 +57,10 @@ If you need a reference of what used to exist and is now contained where, here's
 - [Non-OC Characters][miscnoc]
 - [Non-Roleplay Things][miscnrole]
 
+**[Modana][mode]**:
+- [Order of the Auvila][modauv]
+- [Initial Concept][modini]
+- [Other][modoth]
 ---
 
 ![A picture of a cat holding a block of cheese with a caption in all lowercase, reading \'my apolocheese\'](https://raw.githubusercontent.com/OrangeBlock0421/image-host/main/viewme.jpg)
@@ -92,3 +97,8 @@ If you need a reference of what used to exist and is now contained where, here's
 [misc]: <https://github.com/OrangeBlock0421/image-host/tree/main/Misc> "Misc"
 [miscnoc]: <https://github.com/OrangeBlock0421/image-host/tree/main/Misc/Non-OC> "Non-OC"
 [miscnrole]: <https://github.com/OrangeBlock0421/image-host/tree/main/Misc/Non-Roleplay_Things> "Non-Roleplay_Things"
+
+[mode]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana> "Modana"
+[modauv]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana/Auvila> "Auvila"
+[modini]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana/Initial> "Initial"
+[modoth]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana/Other> "Other"

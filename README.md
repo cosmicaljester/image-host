@@ -60,6 +60,7 @@ If you need a reference of what used to exist and is now contained where, here's
 **[Modana][mode]**:
 - [Order of the Auvila][modauv]
 - [Initial Concept][modini]
+- [Secondary Concept][modsec]
 - [Other][modoth]
 ---
 
@@ -101,4 +102,5 @@ If you need a reference of what used to exist and is now contained where, here's
 [mode]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana> "Modana"
 [modauv]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana/Auvila> "Auvila"
 [modini]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana/Initial> "Initial"
+[modsec]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana/Secondary> "Secondary"
 [modoth]: <https://github.com/OrangeBlock0421/image-host/tree/main/Modana/Other> "Other"
